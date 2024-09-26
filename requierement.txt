@@ -1,0 +1,5 @@
+streamlit
+torch
+torchvision
+matplotlib
+jcopdl<=2.0
